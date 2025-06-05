@@ -1,3 +1,5 @@
+![Extension Screenshot](photo.png)
+
 # Chrome Extension Local Installation Guide
 
 ## 📦 Installation from Local Folder
